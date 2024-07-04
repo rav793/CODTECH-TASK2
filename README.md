@@ -1,8 +1,9 @@
-**Name:** Ravi Yadav
+**Name:** RAVI YADAV
 **Company:** CODTECH IT SOLUTIONS
 **ID:** CT08DS1610
 **Domain:**  Web development
 **Duration:** 5th June to 5th July 2024
+**Mentor:** SRAVANI GOUNI
 
 ## Project Overview: Weather Forecast App
 ### Objective
